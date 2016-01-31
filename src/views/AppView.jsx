@@ -7,7 +7,7 @@ module.exports = React.createClass({
     return (
       <div className="App">
         <p>This app was bundled with webpack</p>
-        <p>App and vendors code are splitted accross</p>
+        <p>App and vendors code are splitted accross different files</p>
       </div>
     );
   }
